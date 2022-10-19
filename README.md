@@ -1,7 +1,7 @@
 # Portfolio
-This is my small project using html/css/bootstrap. I will be using this to showcase my projects.    Live Replit Deployment https://portfolio.siddikahumayra9.repl.co/
-#Technologies Used
-* HTML
+This is my small project using html/css/bootstrap. I will be using this to showcase my projects.     [Live Replit Deployment](https://portfolio.siddikahumayra9.repl.co/)       
+# Technologies Used         
+* HTML 
 * CSS    
 
 # Installation      
